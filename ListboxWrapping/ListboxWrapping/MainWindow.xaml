@@ -1,0 +1,23 @@
+﻿<Window x:Class="ListboxWrapping.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ListboxWrapping"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Window.Resources>
+        <ItemsPanelTemplate x:Key="ListBoxItemsPanel1">
+            <WrapPanel/>
+        </ItemsPanelTemplate>
+    </Window.Resources>
+    <Grid Margin="0,0,0,-497">
+        <ListBox ItemsPanel="{DynamicResource ListBoxItemsPanel1}" Margin="197,116,400,506" ScrollViewer.HorizontalScrollBarVisibility="Disabled" >
+            <ListBoxItem Background="#FFE0C4C4" Height="100" Width="175"/>
+            <ListBoxItem Background="#FF203F91" Height="100" Width="175"/>
+            <ListBoxItem Background="#FF641A3F" Height="100" Width="175"/>
+            <ListBoxItem Background="#FF86BB17" Height="100" Width="175"/>
+            <ListBoxItem Background="#FFB1DAAA" Height="100" Width="175"/>
+        </ListBox>
+    </Grid>
+</Window>

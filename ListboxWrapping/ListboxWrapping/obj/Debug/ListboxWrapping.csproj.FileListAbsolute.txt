@@ -1,0 +1,15 @@
+C:\Code\CIT195\ListboxWrapping\ListboxWrapping\bin\Debug\ListboxWrapping.exe.config
+C:\Code\CIT195\ListboxWrapping\ListboxWrapping\bin\Debug\ListboxWrapping.exe
+C:\Code\CIT195\ListboxWrapping\ListboxWrapping\bin\Debug\ListboxWrapping.pdb
+C:\Code\CIT195\ListboxWrapping\ListboxWrapping\obj\Debug\ListboxWrapping.csprojAssemblyReference.cache
+C:\Code\CIT195\ListboxWrapping\ListboxWrapping\obj\Debug\MainWindow.g.cs
+C:\Code\CIT195\ListboxWrapping\ListboxWrapping\obj\Debug\App.g.cs
+C:\Code\CIT195\ListboxWrapping\ListboxWrapping\obj\Debug\ListboxWrapping_MarkupCompile.cache
+C:\Code\CIT195\ListboxWrapping\ListboxWrapping\obj\Debug\ListboxWrapping_MarkupCompile.lref
+C:\Code\CIT195\ListboxWrapping\ListboxWrapping\obj\Debug\MainWindow.baml
+C:\Code\CIT195\ListboxWrapping\ListboxWrapping\obj\Debug\ListboxWrapping.g.resources
+C:\Code\CIT195\ListboxWrapping\ListboxWrapping\obj\Debug\ListboxWrapping.Properties.Resources.resources
+C:\Code\CIT195\ListboxWrapping\ListboxWrapping\obj\Debug\ListboxWrapping.csproj.GenerateResource.cache
+C:\Code\CIT195\ListboxWrapping\ListboxWrapping\obj\Debug\ListboxWrapping.csproj.CoreCompileInputs.cache
+C:\Code\CIT195\ListboxWrapping\ListboxWrapping\obj\Debug\ListboxWrapping.exe
+C:\Code\CIT195\ListboxWrapping\ListboxWrapping\obj\Debug\ListboxWrapping.pdb
